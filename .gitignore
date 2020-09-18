@@ -1,0 +1,5 @@
+*.csv
+env/env.go
+*.exe
+data/data.go
+data/data_full.go
