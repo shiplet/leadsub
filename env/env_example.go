@@ -1,0 +1,5 @@
+package env
+
+//const PHP_SESSID = "PHPSESSIONINFORMATION"
+//const API_KEY = "APIKEY"
+//const API_SECRET = "APISECRET"
